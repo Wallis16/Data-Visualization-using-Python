@@ -11,6 +11,9 @@ There are 4 files, where you can find what is shown below:
 #### Basemap
 ![3](https://user-images.githubusercontent.com/26671424/58062066-4a424280-7b4f-11e9-90d4-346c5aaa098d.png)
 
+#### bqplot
+![4](https://user-images.githubusercontent.com/26671424/58062335-5a0e5680-7b50-11e9-8dbe-e7cdcf3699bc.png)
+
 #### Networkx
 ![5](https://user-images.githubusercontent.com/26671424/58062065-4a424280-7b4f-11e9-9eb0-ff92bfc368bb.png)
 
