@@ -1,4 +1,4 @@
 ### Udemy_Data-Visualization-using-Python
 
-There are 4 files, where you can find what is showing in these images.
+There are 4 files, where you can find what is shown in these images.
 
