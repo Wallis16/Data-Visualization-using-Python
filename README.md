@@ -1,6 +1,6 @@
 ### Udemy_Data-Visualization-using-Python
 
-There are 4 files, where you can find what is shown in these images.
+There are 4 files, where you can find what is shown below:
 
 ![1](https://user-images.githubusercontent.com/26671424/58062068-4a424280-7b4f-11e9-934d-42aa946c2b93.png)
 
